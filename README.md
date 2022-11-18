@@ -7,11 +7,11 @@ https://doi.org/10.1161/hypertensionaha.121.17796
 
 ```
 ht_prs_sex
-├── README.md                 # Overview
-├── ht_prs_sex.rmd            # R markdown for the analysis
-├── Functions.R      	      # Minor R functions for the main analysis
-├── select_columns.pl         # Perl script to select columns from tsv files by column name
-├── PRS_calculations		  # PRS calculations
+├── README.md                 	# Overview
+├── ht_prs_sex.rmd            	# R markdown for the analysis
+├── Functions.R      	      	# Minor R functions for the main analysis
+├── select_columns.pl         	# Perl script to select columns from tsv files by column name
+├── PRS_calculations		# PRS calculations
 	├──
 	├──
 
