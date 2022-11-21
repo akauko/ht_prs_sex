@@ -1,5 +1,5 @@
 # ht_prs_sex
-Code for the publication: Kauko, Anni, et al. "Sex differences in genetic risk for hypertension." Hypertension 78.4 (2021): 1153-1155.
+Code for the publication: Kauko, A., et al. "Sex differences in genetic risk for hypertension." Hypertension 78.4 (2021): 1153-1155.
 https://doi.org/10.1161/hypertensionaha.121.17796
 
 * Data: FinnGen (https://www.finngen.fi/en)
