@@ -1,5 +1,5 @@
 # ht_prs_sex
-R code for the publication: Sex Differences in Genetic Risk for Hypertension
+R code for the publication: Kauko, Anni, et al. "Sex differences in genetic risk for hypertension." Hypertension 78.4 (2021): 1153-1155.
 https://doi.org/10.1161/hypertensionaha.121.17796
 
 * PRS values were calculuted for FinnGen individuals using PRS-CS pipeline with default settings: https://github.com/getian107/PRScs
